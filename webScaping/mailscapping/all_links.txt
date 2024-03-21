@@ -1,0 +1,10 @@
+<div class="firma_detay_bilgi "><i class="fa-solid fa-square-envelope"></i> info@adeo.com.tr</div>
+<div class="firma_detay_bilgi "><i class="fa-solid fa-square-envelope"></i> ozdemirmazhargokhan@gmail.com</div>
+<div class="firma_detay_bilgi "><i class="fa-solid fa-square-envelope"></i> sadigursoy@gmail.com</div>
+<div class="firma_detay_bilgi "><i class="fa-solid fa-square-envelope"></i> bilgi@algan.com.tr</div>
+<div class="firma_detay_bilgi "><i class="fa-solid fa-square-envelope"></i> info@ankarabt.com</div>
+<div class="firma_detay_bilgi "><i class="fa-solid fa-square-envelope"></i> info@apateknoloji.com</div>
+<div class="firma_detay_bilgi "><i class="fa-solid fa-square-envelope"></i> ardproje@ardgrup.com.tr.</div>
+<div class="firma_detay_bilgi "><i class="fa-solid fa-square-envelope"></i> baris@arga.com.tr</div>
+<div class="firma_detay_bilgi "><i class="fa-solid fa-square-envelope"></i> info@arksoft.com.tr</div>
+<div class="firma_detay_bilgi "><i class="fa-solid fa-square-envelope"></i> feriduncaganyilmaz@gmail.com</div>

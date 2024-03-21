@@ -6,10 +6,11 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class App {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Dosya adı: ");
         String dosyaAdi = scanner.nextLine();
+        BufferedWriter writer = new BufferedWriter(new FileWriter("all_links.txt"));
 
         try (Scanner fileScanner = new Scanner(new java.io.File(dosyaAdi))) {
             StringBuilder allLinks = new StringBuilder(); // Tüm bağlantıları tek bir dosyada biriktirelim
@@ -33,15 +34,15 @@ public class App {
                     in.close();
 
                     String rawHTML = content.toString();
-                    Pattern pattern = Pattern.compile("<a\\s+href=\"(.*?)\"");
+                    Pattern pattern = Pattern.compile(
+                            "<div\\s+class=\"firma_detay_bilgi \"\\s*><i\\s+class=\"fa-solid\\s+fa-square-envelope\"></i>\\s*([^<]+)\\s*</div>");
                     Matcher matcher = pattern.matcher(rawHTML);
 
                     // Her bir bağlantıyı allLinks'e ekleyelim
                     while (matcher.find()) {
-                        String link = matcher.group(1);
+                        String link = matcher.group();
                         allLinks.append(link).append("\n");
                     }
-
                     System.out.println(url + " adresinden bağlantılar başarıyla alındı.");
                     sayac++;
                 } catch (IOException e) {
@@ -50,7 +51,7 @@ public class App {
             }
 
             // Tüm bağlantıları tek bir dosyaya yazalım
-            try (BufferedWriter writer = new BufferedWriter(new FileWriter("all_links.txt"))) {
+            try (writer) {
                 writer.write(allLinks.toString());
                 System.out.println("Tüm bağlantılar başarıyla kaydedildi: all_links.txt");
             } catch (IOException e) {
