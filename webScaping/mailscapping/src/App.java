@@ -34,8 +34,7 @@ public class App {
                     in.close();
 
                     String rawHTML = content.toString();
-                    Pattern pattern = Pattern.compile(
-                            "(?<=<div\\s+class=\"firma_detay_bilgi \"\\s*><i\\s+class=\"fa-solid\\s+fa-square-envelope\"></i>\\s*)[^<]+(?=\\s*</div>)");
+                    Pattern pattern = Pattern.compile("[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}");
                     Matcher matcher = pattern.matcher(rawHTML);
 
                     // Her bir bağlantıyı allLinks'e ekleyelim

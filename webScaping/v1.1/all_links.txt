@@ -1,448 +1,187 @@
-/tr
-#
-/tr/hakkimizda_-1
-/tr/yonetimkurulu
-/tr/ismail_karahan-33
-/tr/arge_binalarimiz-37
-/tr/kurumsal_kimlik-36
-#
-https://argeportal.hacettepeteknokent.com.tr/onbasvuruformu
-https://argeportal.hacettepeteknokent.com.tr/
-/tr/ulusallastirma_basvurulari-35
-#
-/tr/haberler/haberler-1
-/tr/haberler/duyurular-2
-#
-/tr/uluslararasilastirma-46
-/tr/teknokentte_yasam-47
-/tr/destek_ve_tesvikler-38
-/tr/mevzuat-57
-/tr/sikca_sorulan_sorular-39
-/tr/firma/adeo_cyber_security-2976
-/tr/firma/adwise_kurumsal-2975
-/tr/firma/artifica-1872
-/tr/firma/algan_yazilim_ve_bilisim_tic_ltd_sti-51
-/tr/firma/ankara_bilgi_teknolojileri-118
-/tr/firma/apa_bilgi_teknolojileri_sanayi_ticarer_limited_sirketi-1806
-/tr/firma/ard_grup-262
-/tr/firma/arga_bilisim-1040
-/tr/firma/arksoft-1511
-/tr/firma/armasoft-1159
-/tr/firma/atlas_egitim_yazilimlari-188
-/tr/firma/beytepe_bilisim-1108
-/tr/firma/banksoft-180
-/tr/firma/iq_sistem_cozumleri-224
-/tr/firma/chiron_global-1829
-/tr/firma/crypttech_savunma_ve_siber_guvenlik-1616
-/tr/firma/-2908
-/tr/firma/doganay_siber_emniyet_teknolojileri-1800
-/tr/firma/dasrc-1751
-/tr/firma/envixio_teknoloji_limited_sirketi-2949
-/tr/firma/-1735
-/tr/firma/intellectia_cs-1173
-/tr/firma/fouras_teknoloji_anonim_sirketi-1848
-/tr/firma/gca_yazilim-1748
-/tr/firma/globetech-1291
-/tr/firma/goaltech-2931
-/tr/firma/hepa_games_oyun_teknolojileri-1832
-/tr/firma/icon_systems_teknoloji_sistem_yapi_ve_sanayi_as-2969
-/tr/firma/illumate_studios-2944
-/tr/firma/jforce-1543
-/tr/firma/jotform_yazilim_as-21
-/tr/firma/kamu_ihale_kurumu-229
-/tr/firma/sistemim-109
-/tr/firma/kindi-1812
-/tr/firma/krizma_yazilim-1426
-/tr/firma/metaform-22
-/tr/firma/monad_yazilim_bilgisayar_egidansanve_ticltdsti-68
-/tr/firma/map2heal-963
-/tr/firma/mavinci-343
-/tr/firma/-2912
-/tr/firma/ngx-1092
-/tr/firma/onbiron-2941
-/tr/firma/parrhesia-1084
-/tr/firma/polar_proje_teknoloji_bilisim_mim_muh_ve_tic_as-170
-/tr/firma/ptt_bilgi_teknolojileri_as-1427
-/tr/firma/qr_bilisim_ve_yazilim_sistemleri-1768
-/tr/firma/rovenma-1433
-/tr/firma/sonne_teknoloji_anonim_sirketi-1757
-/tr/firma/sa_inovasyon-1809
-/tr/firma/senyorapp-1864
-/tr/firma/softplus-1784
-/tr/firma/simbiyoz_bilisim-336
-/tr/firma/-1893
-/tr/firma/simsoft_bilgisayar_teknolojileri_ltdsti-1750
-/tr/firma/timecom-1167
-/tr/firma/tengen_bilisim_teknolojileri_ve_danismanlik_hizmetleri_ticaret_limited_sirketi-78
-/tr/firma/turk_finansal-1164
-/tr/firma/turk_teknoloji-104
-/tr/firma/unnaturalai-2922
-/tr/firma/-1738
-/tr/firma/-1576
-/tr/firma/indisol-2940
-firma_rehberi
-#
-/tr
-#
-/tr/hakkimizda_-1
-/tr/yonetimkurulu
-/tr/ismail_karahan-33
-/tr/arge_binalarimiz-37
-/tr/kurumsal_kimlik-36
-#
-https://argeportal.hacettepeteknokent.com.tr/onbasvuruformu
-https://argeportal.hacettepeteknokent.com.tr/
-/tr/ulusallastirma_basvurulari-35
-#
-/tr/haberler/haberler-1
-/tr/haberler/duyurular-2
-#
-/tr/uluslararasilastirma-46
-/tr/teknokentte_yasam-47
-/tr/destek_ve_tesvikler-38
-/tr/mevzuat-57
-/tr/sikca_sorulan_sorular-39
-/tr/firma/aselsan_as-1564
-/tr/firma/etb_elektronik_teknoloji_ve_bilisim_hizmetleri_san_tic_ltd_sti_-965
-/tr/firma/gesislab-1155
-/tr/firma/-1838
-/tr/firma/polar_as-322
-/tr/firma/rst-977
-/tr/firma/tera_mikroelektronik-993
-/tr/firma/teknotolya_as-2
-/tr/firma/tellus_arastirma_gelistirme_ve_muhendislik_as-1195
-/tr/firma/ulsis-1191
-/tr/firma/idearge-1383
-firma_rehberi
-#
-/tr
-#
-/tr/hakkimizda_-1
-/tr/yonetimkurulu
-/tr/ismail_karahan-33
-/tr/arge_binalarimiz-37
-/tr/kurumsal_kimlik-36
-#
-https://argeportal.hacettepeteknokent.com.tr/onbasvuruformu
-https://argeportal.hacettepeteknokent.com.tr/
-/tr/ulusallastirma_basvurulari-35
-#
-/tr/haberler/haberler-1
-/tr/haberler/duyurular-2
-#
-/tr/uluslararasilastirma-46
-/tr/teknokentte_yasam-47
-/tr/destek_ve_tesvikler-38
-/tr/mevzuat-57
-/tr/sikca_sorulan_sorular-39
-/tr/firma/botas_pipeline_services-2977
-/tr/firma/epra_engineering_procurement_research_analyse-333
-/tr/firma/kimera_fotonik_teknolojileri_anonim_sirketi-2947
-/tr/firma/-1650
-/tr/firma/-2965
-/tr/firma/iog_enerji_proje_dan_ve_muh_tic_ltd_sti-332
-firma_rehberi
-#
-/tr
-#
-/tr/hakkimizda_-1
-/tr/yonetimkurulu
-/tr/ismail_karahan-33
-/tr/arge_binalarimiz-37
-/tr/kurumsal_kimlik-36
-#
-https://argeportal.hacettepeteknokent.com.tr/onbasvuruformu
-https://argeportal.hacettepeteknokent.com.tr/
-/tr/ulusallastirma_basvurulari-35
-#
-/tr/haberler/haberler-1
-/tr/haberler/duyurular-2
-#
-/tr/uluslararasilastirma-46
-/tr/teknokentte_yasam-47
-/tr/destek_ve_tesvikler-38
-/tr/mevzuat-57
-/tr/sikca_sorulan_sorular-39
-/tr/firma/ante_grup_bilisim-1534
-/tr/firma/-1739
-/tr/firma/armelsan_savunma_teknolojileri-1498
-/tr/firma/artron_tasarim_uretim_elektronik_ticaret_as-265
-/tr/firma/asartech-1546
-/tr/firma/bnbc_uluslararasi-1493
-/tr/firma/4e4_-1118
-/tr/firma/ecem_gursoy-2954
-/tr/firma/ehsim_-1540
-/tr/firma/-1778
-/tr/firma/idt_savunma_teknolojileri-1623
-/tr/firma/koluman_otomotiv_endustri_as-2929
-/tr/firma/molekul-1611
-/tr/firma/magice_manyetik_teknolojiler-1582
-/tr/firma/megart_teknoloji-342
-/tr/firma/ms_spektral-1061
-/tr/firma/nanovak_arge-70
-/tr/firma/skytronx_systems-2925
-/tr/firma/sagay_-1700
-/tr/firma/simtek-1098
-/tr/firma/siteplus_-1168
-/tr/firma/-1799
-/tr/firma/-1612
-/tr/firma/trmotor-1482
-/tr/firma/tusas_motor_sanayii_as-1274
-/tr/firma/yongatek-1572
-/tr/firma/interdata-1846
-firma_rehberi
-#
-/tr
-#
-/tr/hakkimizda_-1
-/tr/yonetimkurulu
-/tr/ismail_karahan-33
-/tr/arge_binalarimiz-37
-/tr/kurumsal_kimlik-36
-#
-https://argeportal.hacettepeteknokent.com.tr/onbasvuruformu
-https://argeportal.hacettepeteknokent.com.tr/
-/tr/ulusallastirma_basvurulari-35
-#
-/tr/haberler/haberler-1
-/tr/haberler/duyurular-2
-#
-/tr/uluslararasilastirma-46
-/tr/teknokentte_yasam-47
-/tr/destek_ve_tesvikler-38
-/tr/mevzuat-57
-/tr/sikca_sorulan_sorular-39
-/tr/firma/edel_muhendislik-1661
-/tr/firma/espom_makine_sanayi_ve_ticaret_anonim_sirketi-2917
-/tr/firma/pdynamics-2943
-/tr/firma/versus-1213
-firma_rehberi
-#
-/tr
-#
-/tr/hakkimizda_-1
-/tr/yonetimkurulu
-/tr/ismail_karahan-33
-/tr/arge_binalarimiz-37
-/tr/kurumsal_kimlik-36
-#
-https://argeportal.hacettepeteknokent.com.tr/onbasvuruformu
-https://argeportal.hacettepeteknokent.com.tr/
-/tr/ulusallastirma_basvurulari-35
-#
-/tr/haberler/haberler-1
-/tr/haberler/duyurular-2
-#
-/tr/uluslararasilastirma-46
-/tr/teknokentte_yasam-47
-/tr/destek_ve_tesvikler-38
-/tr/mevzuat-57
-/tr/sikca_sorulan_sorular-39
-/tr/firma/-2919
-/tr/firma/adger_muhendislik_ltdsti-1536
-/tr/firma/biogalenica-1801
-/tr/firma/case_-1746
-/tr/firma/craniowell_medikal-2918
-/tr/firma/desu-123
-/tr/firma/-1871
-/tr/firma/elixir-1107
-/tr/firma/-1875
-/tr/firma/glaxosmithkline_asi_klinik_arastirma_merkezi-185
-/tr/firma/hemosoft_bilisim_ve_egitim_hizltdsti-17
-/tr/firma/ipq_farma_ltd_sti-1754
-/tr/firma/isitech_ileri_saglik_tekonolojileri_arge_urge_inovasyon_egitim_ve_danismanlik_limited_sirketi-2958
-/tr/firma/inoshape-1401
-/tr/firma/kartal_okuma_-1307
-/tr/firma/meridian-1795
-/tr/firma/mentor-1176
-/tr/firma/mycro-1292
-/tr/firma/pneumecha_muhendislik-1816
-/tr/firma/scideus-1520
-/tr/firma/surgsim_saglik_teknolojik_uygulamalar_ve_danismanlik_anonim_sirketi_-2981
-/tr/firma/snp_biyoteknoloji-295
-/tr/firma/-1905
-/tr/firma/eczane-1570
-/tr/firma/ulusan_medikal-1194
-/tr/firma/venus_robotik-1852
-firma_rehberi
-#
-/tr
-#
-/tr/hakkimizda_-1
-/tr/yonetimkurulu
-/tr/ismail_karahan-33
-/tr/arge_binalarimiz-37
-/tr/kurumsal_kimlik-36
-#
-https://argeportal.hacettepeteknokent.com.tr/onbasvuruformu
-https://argeportal.hacettepeteknokent.com.tr/
-/tr/ulusallastirma_basvurulari-35
-#
-/tr/haberler/haberler-1
-/tr/haberler/duyurular-2
-#
-/tr/uluslararasilastirma-46
-/tr/teknokentte_yasam-47
-/tr/destek_ve_tesvikler-38
-/tr/mevzuat-57
-/tr/sikca_sorulan_sorular-39
-/tr/firma/2b_turkuaz_yazilim-1513
-/tr/firma/alkamanas-1811
-/tr/firma/amazoi_bilisim_sistemleri-1497
-/tr/firma/ard_enerji_as-1405
-/tr/firma/ard_saglik-1403
-/tr/firma/arge_grup_danismanlik_yazilim_tanitim_ve_egitim_hizmetleri_limited_sirketi-1892
-/tr/firma/aivigo-1877
-/tr/firma/aak-1873
-/tr/firma/monolib-1843
-/tr/firma/amazoi_tech-1861
-/tr/firma/aniventi_as-1489
-/tr/firma/ard_insaat-1406
-/tr/firma/ard_grup-1407
-/tr/firma/ard_danismanlik-1823
-/tr/firma/ard_savunma-1404
-/tr/firma/arkitek-1416
-/tr/firma/-2913
-/tr/firma/atreus_teknoloji_as-1819
-/tr/firma/benpetto_san_ve_tic_ltd_sti-2939
-/tr/firma/bytecraft_-1851
-/tr/firma/belsis-1017
-/tr/firma/berk_bozkurt-1569
-/tr/firma/bib_yazilim_savunma_insaat_enerji_egitim_reklam_turizm_sanayi_ve_ticaret_anonim_sirketi-1549
-/tr/firma/bilfo-1656
-/tr/firma/bilgisim_bilisim_sistemleri-1733
-/tr/firma/-1673
-/tr/firma/bisoft-1087
-/tr/firma/bil_yazilim-989
-/tr/firma/-1830
-/tr/firma/cuda_tech_yazilim_muhendislik_makine_enerji_bilisim_san_ve_tic_ltd_sti-2964
-/tr/firma/-1804
-/tr/firma/cey_savunma-1577
-/tr/firma/consultech-1765
-/tr/firma/-1906
-/tr/firma/dataflowx_-1435
-/tr/firma/datascopeai-1822
-/tr/firma/devbu_teknoloji_anonim_sirketi-2959
-/tr/firma/duru_bilisim_teknolojileri_iletisim_yayincilik_egitim_insaat_emlak_elektronik_ithalat_ihracat_ic_ve_dis_ticaret_limited_sirketi-1320
-/tr/firma/-1895
-/tr/firma/das-964
-/tr/firma/eimzatr-1005
-/tr/firma/-2938
-/tr/firma/ekstrem_bir_bilgisayar_danismanlik_ic_ve_dis_ticaret_ltd_sti-61
-/tr/firma/endurans_teknoloji_anonim_sirketi-2963
-/tr/firma/ekodenge_as-14
-/tr/firma/ekon-1654
-/tr/firma/eld_bilisim_sanayi_ve_ticaret_anonim_sirketi-1440
-/tr/firma/estep_bilisim-1021
-/tr/firma/etgi_grup-1000
-/tr/firma/etiya-1717
-/tr/firma/eywin_apps-1618
-/tr/firma/-2916
-/tr/firma/flat_games-1836
-/tr/firma/-1899
-/tr/firma/forte_bilgi-1470
-/tr/firma/finilabs_-1257
-/tr/firma/-2955
-/tr/firma/-1891
-/tr/firma/guris_teknoloji-2927
-/tr/firma/heap_games_oyun_ve_teknoloji_anonim_sirketi-2973
-/tr/firma/hypermonk_games-1857
-/tr/firma/harptek-1458
-/tr/firma/hcg_madencilik-165
-/tr/firma/hightech_bilgi_teknolojileri-1858
-/tr/firma/hoytek_muhendislik_ltd-1129
-/tr/firma/hitatek_yazilim_ve_bilisim_sistemleri-1492
-/tr/firma/inappto-2966
-/tr/firma/infoline_bilgi_teknolojileri_tic_as-1006
-/tr/firma/kapitta-1066
-/tr/firma/adverti-1583
-/tr/firma/-1635
-/tr/firma/crypttech-1279
-/tr/firma/logo_yazilim-1378
-/tr/firma/lotec_teknoloji_limited_sirketi-1495
-/tr/firma/labor_bilisim-1839
-/tr/firma/larinsoft_bilisim_teknoloji_anonim_sirketi-1645
-/tr/firma/loncatech_-1827
-/tr/firma/loop_games-1745
-/tr/firma/lupe_yazilim-1339
-/tr/firma/mbis-1111
-/tr/firma/-1810
-/tr/firma/-2935
-/tr/firma/-2911
-/tr/firma/mikrokom_yazilim-1552
-/tr/firma/mkv_bilisim-1658
-/tr/firma/navapp_yazilim_ve_danismanlik_as-1135
-/tr/firma/-2968
-/tr/firma/nexizon-2936
-/tr/firma/numesys_-1562
-/tr/firma/-1844
-/tr/firma/nxsoft_technology_inc-1878
-/tr/firma/nishbs_bilgi_teknolojileri_yazilim_danismanlik_tic_ltd_sti-1365
-/tr/firma/on7_yazilim-1887
-/tr/firma/-1783
-/tr/firma/ondo_yazilim_cyangate-1510
-/tr/firma/orbitco_yazilim_medya_danismanlik_ticaret_anonim_sirketi-1665
-/tr/firma/phi0_kuantum_teknolojiler_as-1808
-/tr/firma/pitcher-1756
-/tr/firma/posec-1856
-/tr/firma/provenlabs_teknoloji_anonim_sirketi-2957
-/tr/firma/picus-1219
-/tr/firma/pidata_bilisim-1775
-/tr/firma/proven-1025
-/tr/firma/-2951
-/tr/firma/qtools_-1817
-/tr/firma/-2942
-/tr/firma/rox_yazilim_as-1660
-/tr/firma/rx_teknoloji-1866
-/tr/firma/robust_yazilim_ve_bilisim-1886
-/tr/firma/spac_danismanlik-1659
-/tr/firma/-2923
-/tr/firma/saglik_dosyam-1868
-/tr/firma/signum_tte-1217
-/tr/firma/sisasoft_bilgi_teknolojileri_ve_inovasyon_anonim_sirketi-1558
-/tr/firma/sisoft_saglik_bilgi_sistemleri_anonim_sirketi-1491
-/tr/firma/softtech_yazilim_teknolojileri_arastirma_gelistirme_ve_pazarlama_tic_as-98
-/tr/firma/spexco-1814
-/tr/firma/-1537
-/tr/firma/simula_yazilim-1476
-/tr/firma/tetranova-1051
-/tr/firma/toalx-2979
-/tr/firma/teknoritma-1204
-/tr/firma/teleskop_yazilim_teknolojiler-1694
-/tr/firma/tepav-1315
-/tr/firma/vojii_games_oyun_ve_teknoloji_anonim_sirketi-2962
-/tr/firma/valvolex_games-1826
-/tr/firma/vegagrup-1334
-/tr/firma/-1850
-/tr/firma/-1820
-/tr/firma/konrul-1386
-/tr/firma/ozbilen_solition-1633
-/tr/firma/iog_muhendislik-1224
-/tr/firma/allesgo-1174
-/tr/firma/steeldata_bilisim_ve_bilgi_teknolojileri_sahap_ataman-1670
-firma_rehberi
-#
-/tr
-#
-/tr/hakkimizda_-1
-/tr/yonetimkurulu
-/tr/ismail_karahan-33
-/tr/arge_binalarimiz-37
-/tr/kurumsal_kimlik-36
-#
-https://argeportal.hacettepeteknokent.com.tr/onbasvuruformu
-https://argeportal.hacettepeteknokent.com.tr/
-/tr/ulusallastirma_basvurulari-35
-#
-/tr/haberler/haberler-1
-/tr/haberler/duyurular-2
-#
-/tr/uluslararasilastirma-46
-/tr/teknokentte_yasam-47
-/tr/destek_ve_tesvikler-38
-/tr/mevzuat-57
-/tr/sikca_sorulan_sorular-39
-/tr/firma/bilgi_teknolojileri_ve_iletisim_kurumu-1085
-/tr/firma/-1797
-firma_rehberi
-#
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/4hera-yazilim-ve-donanim-sistemleri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/4m-dijital-donusum-ve-danismanlik-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/afatek-bilisim-teknoloji-yazilim-reklam-imalat-ithalat-ihracat-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ageratm-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/aix2-games-oyun-yazilim-ve-teknoloji-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/akura-madencilik-cevre-muhendislik-teknoloji-danismanlik-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/albiders-bilisim-a-s"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/aldag-isitma-sogutma-klima-sanayi-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/alfasis-bilisim-ve-goruntu-teknolojileri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/alkan-teknoloji-elektronik-sanayi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/alp-enerji-sistemleri-bilgi-ve-iletisim-teknolojisi-hizmetleri-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/alti-dynamics-muhendislik-yazilim-arastirma-gelistirme-makine-imalat-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/alves-kablo-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ankara-donanim-yazilim-bilisim-arge-tasarim-muhendislik-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/appvest-intelligent-manufacturing-yazilim-web-tasarim-danismanlik-imalat-muhendislik-ihracat-ithalat-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ara-yazilim-ve-bilisim-hizmetleri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/arca-yazilim-bilisim-danismanlik-egitim-hizmetleri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/arg-grup-bilisim-teknolojileri-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/aris-enerji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/asentek-savunma-ve-enerji-teknolojileri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/assavtech-savunma-teknolojileri-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/atirad-teknoloji-yazilim-danismanlik-hizmetleri-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/avci-sanayi-savunma-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ayanli-yazilim-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/balkan-havacilik-muhendislik-teknolojileri-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/barbiotech-biyoteknoloji-enerji-savunma-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/basari-tutkum-bilisim-proje-ve-lojistik-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/baskent-finansal-teknolojiler-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/bertech-bilgi-teknolojileri-ve-inovasyon-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/beyes-bilisim-teknolojileri"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/bigventus-yazilim-ve-veri-teknolojileri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/bilgeweb-yazilim-ve-bilisim-hizmetleri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/birkil-bilisim-teknolojileri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/black-studios-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/blc-iletisim-ve-guvenlik-sistemleri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/bulaq-robotik-tarimsal-is-makinalari-yazilim-ithalat-ihracat-uretim-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/bunyamin-toygar-bilgi-teknolojileri-ve-elektronik-ticaret-hizmetleri"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/caka-madencilik-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/campus-online-egitim-ve-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/cannes-biyoteknoloji-ve-danismanlik-arge-pazarlama-ithalat-ihracat-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/cekino-bilgi-teknolojileri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/cekino-savunma-elektronik-ve-bilisim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/cerntech-muhendislik-ve-danismanlik-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/chimera-muhendislik-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ckp-savunma-sistemleri-insaat-taahhut-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/cloud-cowork-bilgi-teknolojileri-ve-danismanlik-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/cmit-bilisim-ve-arge-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/cografi-muhendislik-hizmetleri-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/crearc-tasarim-mimarlik-muhendislik-insaat-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/cropim-bilisim-yazilim-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/cubewise-bilisim-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/dakik-yazilim-teknolojileri-ve-danismanlik-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/dama-dama-yapay-zeka-teknoloji-yazilim-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/debye-technic-arastirma-ve-gelistirme-makina-imalat-bilisim-enerji-uretim-muhendislik-danismanlik-sanayi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/dece-yazilim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/deftr-teknoloji-elektronik-muhendislik-danismanlik-enerji-ve-uluslararasi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/deser-kimya-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/dolusoft-yazilim-teknolojileri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/dronsan-savunma-havacilik-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/dualus-teknoloji-elektronik-egitim-muhendislik-arastirma-makina-iletisim-enerji-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/edgsoft-teknoloji-yazilim-tasarim-bilisim-danismanlik-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/egitim-ve-gelecek-bilisim-ve-teknoloji-hizmetleri-sanayi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ekol-yazilim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/elmed-elektronik-ve-medikal-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ensight-bilgi-teknolojileri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/erste-kurumsal-arastirma-ve-yazilim-teknolojileri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/esp-entegre-servis-platformu-bilisim-hizmetleri-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/esso-otomasyon-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/fenix-muhendislik-makina-imalat-taahhut-danismanlik-ithalat-ihracat-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/gamingo-oyun-teknolojiler-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/geotek-teknoloji-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ggk-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/giray-teknoloji-elektronik-yazilim-arastirma-ve-gelistirme-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/gomap-muhendislik-musavirlik-danismanlik-ve-arastirma-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/gorkem-caglar"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/gtrsoft"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/gurbag-savunma-ve-teknoloji-sanayi-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/halit-ayanli"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/hasan-huseyin-altunbay"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/hazim-cakil"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/hidrotim-muhendislik-makine-ve-savunma-sanayi-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/hilow-teknoloji-yazilim-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/hizal-elektroerezyon-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/holyum-yazilim-donanim-muhendislik-danismanlik-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/hsb-teknoloji-muhendislik-cozumleri-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ibrahim-tasyurt"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/idasonic-nanokaplama-sistemleri-ve-teknolojileri-sanayi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/iew-tech-elektronik-sistemler-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ifflow-yazilim-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ilk-yatirim-turizm-grup-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/imestek-savunma-havacilik-elektronik-muhendislik-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/indes-muhendislik-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/inosas-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/intera-yazilim-danismanlik-e-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/iotiq-ankara-yazilim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/is-teknoloji-bilisim-yazilim-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/islem-cografi-bilgi-sistemleri-muhendislik-ve-egitim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/javatar-yazilim-bilisim-egitim-danismanlik-hizmetleri-reklam-elektronik-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/jugglesoft-yazilim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/kardemir-karabuk-demir-celik-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/kolt-muhendislik-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/konsaltus-bilisim-danismanlik-elektronik-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/kuadron-bilisim-teknolojileri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/lagari-teknoloji-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/lenora-bilisim-teknolojileri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/logimat-yazilim-ve-bilisim-teknolojileri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/mas-havacilik-cozumleri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/mavikanatlar-teknoloji-muhendislik-ve-yazilim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/meatec-muhendislik-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/medpointr-medikal-tibbi-cihazlar-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/menabyte-bilgi-teknolojileri-danismanlik-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/metronome-bilisim-yazilim-danismanlik-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/mezoit-teknoloji-muhendislik-ve-bilisim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/milapasa-danismanlik-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/milosens-infrared-teknoloji-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/miltron-savunma-ve-bilisim-teknolojileri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/mithras-goruntuleme-radyasyon-algilama-muhendislik-ve-olcum-sistemleri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/mors-akademi-yazilim-donanim-bilisim-ve-egitim-hizmetleri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/mustafa-cataltepe-mtcsoft-yazilim"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/nanotek-test-olcum-metroloji-kalibrasyon-medikal-elektrik-ve-elektronik-sistemler-bilisim-dan-sav-san-ve-tic-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/nesa-havacilik-ve-muhendislik-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/nevtekcip-teknoloji-mikroelektronik-yazilim-arastirma-gelistirme-sanayi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/nexoft-yazilim-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/next-soft-yazilim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/nice-yazilim-teknolojileri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/nicomatic-teknoloji-uretim-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/nomad-monkey-yazilim-oyun-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/novumek-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/noya-yazilim-sanayi-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/oculera-saglik-teknolojileri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/omer-cavusoglu-inovatek-yapi-yazilim"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/omer-faruk-sarikaya"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/oxben-bilisim-ithalat-ihracat-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/parabellum-systems-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/pavza-yazilim-bilisim-teknolojileri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/pga-danismanlik-yazilim-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/piltek-enerji-sistemleri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/planet-compressor-makina-tasarim-ve-imalat-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/pomsan-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/pure-solutions-teknoloji-ve-gida-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/qnpsoft-bilisim-teknolojileri-egitim-ve-danismanlik-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/quavis-yazilim-elektronik-ve-muhendislik-sanayi-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/revindus-muhendislik-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/rfsan-savunma-teknolojileri-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/rodos-elektrik-ve-otomasyon-sistemleri-muhendislik-taahhut-sanayi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sade-yazilim-ve-danismanlik-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sas-kisisel-gelisim-yazilim-bilisim-teknoloji-ve-danismanlik-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sds-mekanik-makina-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sentinel-enerji-ve-kontrol-teknolojileri-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/serce-teknoloji-egitim-danismanlik-ihracat-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sertek-muhendislik-makina-teknolojileri-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sinopsis-yazilim-ve-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/siren-bilisim-yazilim-teknoloji-egitim-ve-danismanlik-hizmetleri-sanayi-ic-ve-dis-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sistek-sismik-arge-teknoloji-danismanlik-insaat-proje-yazilim-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sitemio-bilisim-teknolojileri-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/smart-aerospace-solutions-havacilik-savunma-arge-yazilim-ticaret-sanayi-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/softsis-yazilim-teknolojileri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/solitera-ileri-teknoloji-bilisim-sistemleri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/solvera-yazilim-hizmetleri-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sonicart-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sono-yazilim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sorentum-teknoloji-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/sparse-technology-bilisim-yazilim-sanayi-ve-ticaret-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/stg-muhendislik-stratejik-teknolojiler-gelistirme-ve-uretim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/taelco-havacilik-ve-savunma-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/talentcorehr-yazilim-ve-danismanlik-hizmetleri-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/tek-yayincilik-reklamcilik-bilisim-yazilim-ve-egitim-hizmetleri-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/tekno-yazilim-sanayi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/teknolus-enerji-egitim-muhendislik-bilisim-danismnlik-ithalat-ihracat-sanayi-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/telko-sistem-muhendislik-enerji-insaat-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/ternaut-ileri-muhendislik-hizmetleri-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/teslaware-bilisim-teknolojileri-ve-enerji-danismanlik-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/tify-design-yazilim-ve-tasarim-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/toya-yazilim-danismanlik-bilisim-hizmetleri-insaat-tarim-hayvancilik-yenilenebilir-enerji-sanayi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/tr7-siber-savunma-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/turkport-savunma-sanayi-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/turna-iletisim-teknolojileri-ve-bilisim-sanayi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/umut-ozkan"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/urbancapital-grup-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/vipulse-teknoloji-as"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/vivatum-teknoloji-sanayi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/voll-yazilim-egitim-ve-danismanlik-hizmetleri-sanayi-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/webolizma-dijital-reklam-danismanlik-egitim-ve-bilisim-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/whilone-teknoloji-yazilim-danismanlik-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/yfa-bilisim-yazilim-danismanlik-ve-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/youreye-teknoloji-ticaret-ltd-sti"
+<a href="https://ostimteknopark.com.tr/tr/company/firmalar-119/zenam-bilisim-teknolojileri-yazilim-ve-danismanlik-ltd-sti"

@@ -38,7 +38,7 @@ public class App {
 
                     // Her bir bağlantıyı allLinks'e ekleyelim
                     while (matcher.find()) {
-                        String link = matcher.group(1);
+                        String link = matcher.group();
                         allLinks.append(link).append("\n");
                     }
 
